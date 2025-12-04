@@ -2,11 +2,10 @@
 
 
 <br>
- A simple Python-based security tool that simulates a real-world security monitoring scenario. It creates a log file with mixed normal and attack traffics , then analyzes it to identify brute force attempts based on failed login patterns through an automated log analysis.
- <br>
+ A simple Python-based security tool that simulates a real-world security monitoring scenario. It creates a log file with mixed normal and attack traffics , then analyzes it to identify brute force attempts based on failed login patterns through an automated log analysis. <br>
 
  
-<h2> - How to run : </h2>
+<h2><b>- How to run : </b> </h2>
 <h2> 1. Clone and Navigate </h2>
 <pre>bash
 git clone https://github.com/yourusername/log-analyzer.git
@@ -27,13 +26,15 @@ python log_analyzer.py
 </pre>
 Detects attacks and creates report.txt with findings <br>
 
-<h2> - How it works :</h2>
+
+
+<h2> <b> - How it works : </b></h2>
 
 <b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b> <BR>                           
 
 
 
-<br> <H2>  - Screenshots : </H2>
+<br> <H2> <b> - Screenshots : </b> </H2>
 <br>
  <h1> The generated logs </h1> <br>
  <img src="..\assets\Logs.png"><br>
@@ -43,7 +44,9 @@ Detects attacks and creates report.txt with findings <br>
  <img src=".\assets\Report.png"><br>
 <br>
 
-<h2> - What I learned: </h2>
+
+
+<h2> <b> - What I learned: </b></h2>
     
    -  Regular expressions for parsing
   
