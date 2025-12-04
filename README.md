@@ -9,10 +9,10 @@
 <BR>
 **1. Clone and Navigate**
 
-graph TD;
-bash
+<pre> ``` bash
 git clone https://github.com/yourusername/log-analyzer.git
-cd log-analyzer
+cd log-analyzer 
+</pre>
 <BR>
 
 2. Generate Logs
@@ -29,32 +29,19 @@ python log_analyzer.py
 
 Detects attacks and creates report.txt with findings
 <BR>
-<H2>How it works :</H2> 
 
-graph TD;
-    A[Log Generator] -->|Creates| B(Server_Activity.log);
-    B -->|Read by| C[Log Analyzer];
-    C -->|Parses & Counts| D{Detection Logic};
-    D -- Count < 5 --> E[Normal Traffic];
-    D -- Count >= 5 --> F[> Trigger Alert <];
-    F -->|Writes to| G[report.txt];
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-    style F fill:#f96,stroke:#333,stroke-width:2px
-    style G fill:#9f9,stroke:#333,stroke-width:2px                                  
-<h2> Features:</h2>
-<br>
-- Smooth scrolling between sections  <br>
-- Navigation bar for quick access  <br>
-- Sections: services, products, contact, and reviews  <br>
-- "Back to top" arrow for easy navigation  <br>
+
+
+
+
+
+    
 <h2> Screenshots :</h2>
 Homepage <br>
 <img src="./imgs/Screenshot1.png"><br>
 Products Section <br>
 <img src="./imgs/Screenshot2.png"><br>
-<h2> More information:</h2>
-This project focuses on creating a smooth and modern browsing experience for an e-commerce landing page.  
+
 
 
