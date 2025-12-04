@@ -1,0 +1,26 @@
+============================================================
+SECURITY ANALYSIS REPORT
+============================================================
+
+Report Details:
+----------------------------------------
+Analysis Time: 2025-12-04 13:17:13
+Log File: Server_Activity.log
+Detection Rule: IPs with 5+ failed login attempts
+
+Analysis Results:
+----------------------------------------
+HIGH SEVERITY - BRUTE FORCE ATTACKS DETECTED:
+
+ATTACKING IP: 45.33.1.20
+Failed Attempts: 10
+Severity Level: CRITICAL
+Recommended Action: Block this IP at firewall
+Reason: Brute force password attack detected
+----------------------------------------
+
+Summary:
+----------------------------------------
+Total IPs checked: 1
+Total failed logins found: 10
+Brute force attacks detected: 1
