@@ -8,11 +8,15 @@
 
 <BR>
 **1. Clone and Navigate**
-```bash
+
+graph TD;
+bash
 git clone https://github.com/yourusername/log-analyzer.git
 cd log-analyzer
 <BR>
+
 2. Generate Logs
+graph TD;
 bash
 
 python log_generator.py
