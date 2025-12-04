@@ -3,8 +3,7 @@
 
 <br>
  A simple Python-based security tool that simulates a real-world security monitoring scenario. It creates a log file with mixed normal and attack traffics , then analyzes it to identify brute force attempts based on failed login patterns through an automated log analysis.
-<BR>
-
+ <br>
 <h2> - How to run : </h2>
 <h2> 1. Clone and Navigate </h2>
 <pre> bash
@@ -34,7 +33,7 @@ Detects attacks and creates report.txt with findings
 <b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b> <BR>                           
 <br>
 
-<br>
+
 <H2>  - Screenshots : </H2>
 <br>
  <h1> The generated logs </h1> <br>
@@ -42,7 +41,7 @@ Detects attacks and creates report.txt with findings
 <h1> The output</h1> <br>
  <img src=".\assets\Output.png"><br>
 <h1> The report </h1> <br>
- <img src="Log-Analyzer\assets\Report.png"><br>
+ <img src=".\assets\Report.png"><br>
 <br>
 
 <h2> - What I learned: </h2>
