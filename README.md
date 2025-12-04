@@ -31,16 +31,27 @@ Detects attacks and creates report.txt with findings
 
 <h2> - How it works :</h2>h
 
-<b> [Log Generator]</b> → <b> [Log Analyzer] </b> →  <b>[Attack Detector]  </b> → <b> [Report Generator] </b> 
--create log files            -contain mixed traffic   -parse the logs               -summary result 
+<b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b>                            
+<br>
 
 
+<H2>  - Screenshots : </H2>
+<br>
+ <h1> The generated logs </h1> <br>
+ <img src="C:\Users\aldos\Log-Analyzer\assets\Logs.png"><br>
+<h1> The output</h1> <br>
+ <img src="C:\Users\aldos\Log-Analyzer\assets\output.png"><br>
+<h1> The report </h1> <br>
+ <img src="C:\Users\aldos\Log-Analyzer\assets\Logs.png"><br>
+<br>
+
+<h2> - What I learned: </h2>
+    - Log analysis and pattern recognition
+
+    - Brute force attack identification
+
+    - Security incident reporting
     
-<h2> Screenshots :</h2>
-Homepage <br>
-<img src="./imgs/Screenshot1.png"><br>
-Products Section <br>
-<img src="./imgs/Screenshot2.png"><br>
-
-
-
+   -  Regular expressions for parsing
+    
+   - Automating security monitoring tasks
