@@ -7,9 +7,9 @@
 📌 
 
 <BR>
-**1. Clone and Navigate**
+***1. Clone and Navigate***
 
-<pre> ``` bash
+<pre> bash
 git clone https://github.com/yourusername/log-analyzer.git
 cd log-analyzer 
 </pre>
