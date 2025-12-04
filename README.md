@@ -2,7 +2,7 @@
 
 
 <br>
-<h2> A simple Python-based security tool that simulates a real-world security monitoring scenario. It creates a log file with mixed normal and attack traffics , then analyzes it to identify brute force attempts based on failed login patterns through an automated log analysis.</h2>
+ A simple Python-based security tool that simulates a real-world security monitoring scenario. It creates a log file with mixed normal and attack traffics , then analyzes it to identify brute force attempts based on failed login patterns through an automated log analysis.
 <BR>
 
 <h2> - How to run : </h2>
@@ -28,21 +28,21 @@ python log_analyzer.py
 Detects attacks and creates report.txt with findings
 <BR>
 
+<br>
+<h2> - How it works :</h2>
 
-<h2> - How it works :</h2>h
-
-<b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b>                            
+<b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b> <BR>                           
 <br>
 
 <br>
 <H2>  - Screenshots : </H2>
 <br>
  <h1> The generated logs </h1> <br>
- <img src="C:\Users\aldos\Log-Analyzer\assets\Logs.png"><br>
+ <img src="..\assets\Logs.png"><br>
 <h1> The output</h1> <br>
- <img src=".\assets\output.png"><br>
+ <img src=".\assets\Output.png"><br>
 <h1> The report </h1> <br>
- <img src="C:\Users\aldos\Log-Analyzer\assets\Logs.png"><br>
+ <img src="Log-Analyzer\assets\Report.png"><br>
 <br>
 
 <h2> - What I learned: </h2>
