@@ -2,7 +2,7 @@
 
 
 <br>
-<h1> A simple Python-based security tool that simulates a real-world security monitoring scenario. It creates a log file with mixed normal and attack traffics , then analyzes it to identify brute force attempts based on failed login patterns through an automated log analysis.</h1>
+<h2> A simple Python-based security tool that simulates a real-world security monitoring scenario. It creates a log file with mixed normal and attack traffics , then analyzes it to identify brute force attempts based on failed login patterns through an automated log analysis.</h2>
 <BR>
 
 <h2> - How to run : </h2>
@@ -34,24 +34,25 @@ Detects attacks and creates report.txt with findings
 <b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b>                            
 <br>
 
-
+<br>
 <H2>  - Screenshots : </H2>
 <br>
  <h1> The generated logs </h1> <br>
  <img src="C:\Users\aldos\Log-Analyzer\assets\Logs.png"><br>
 <h1> The output</h1> <br>
- <img src="C:\Users\aldos\Log-Analyzer\assets\output.png"><br>
+ <img src=".\assets\output.png"><br>
 <h1> The report </h1> <br>
  <img src="C:\Users\aldos\Log-Analyzer\assets\Logs.png"><br>
 <br>
 
 <h2> - What I learned: </h2>
-    - Log analysis and pattern recognition
-
-    - Brute force attack identification
-
-    - Security incident reporting
     
    -  Regular expressions for parsing
-    
+  
    - Automating security monitoring tasks
+     
+   -  Log analysis and pattern recognition
+     
+   -  Brute force attack identification
+     
+   -  Security incident reporting
