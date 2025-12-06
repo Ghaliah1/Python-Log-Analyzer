@@ -30,7 +30,7 @@ python log_analyzer.py
 Detects attacks and creates report.txt with findings 
 
 <br>
-
+<br>
 
 <br>
  <h2> <b> - How it works : </b></h2>
@@ -42,7 +42,6 @@ Detects attacks and creates report.txt with findings
  <H2> - Screenshots :  </H2>
 
  <h3> The generated logs: </h3>
- <hr style="height: 0.1px; border: none; background-color: #ddd;">
  <img src=".\assets\Logs.png"><br>
 <h3> The output:</h3><br>
  <img src=".\assets\Output.png"><br>
