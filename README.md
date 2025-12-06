@@ -18,8 +18,9 @@ cd log-analyzer
 bash
 python log_generator.py
 </pre>
-Creates Server_Activity.log with 35 entries (including 10 failed attempts from attacker IP)
+Creates Server_Activity.log with 35 entries (including 10 failed attempts from attacker IP)<br>
 <BR>
+
 <b> 3. Analyze for Attacks</b>
 <pre>
 bash
@@ -28,7 +29,7 @@ python log_analyzer.py
 Detects attacks and creates report.txt with findings 
 <br>
 
-<hr>
+
 
  <h2> <b> - How it works : </b></h2>
 <pre> <b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b>     </pre>     
@@ -38,12 +39,12 @@ Detects attacks and creates report.txt with findings
 
  <H2> - Screenshots :  </H2>
 
- <b> The generated logs </b> 
+ <h3> The generated logs </h3>
  <hr>
  <img src=".\assets\Logs.png"><br>
-<b> The output</b> <br>
+<h3></h3> The output</h3><br>
  <img src=".\assets\Output.png"><br>
-<b> The report </b> <br>
+<h3> The report </h3> <br>
  <img src=".\assets\Report.png"><br>
 <br>
 
