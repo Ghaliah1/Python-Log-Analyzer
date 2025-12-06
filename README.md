@@ -19,7 +19,7 @@ bash
 python log_generator.py
 </pre>
 Creates Server_Activity.log with 35 entries (including 10 failed attempts from attacker IP)
-
+<br>
 <BR>
 
 <b> 3. Analyze for Attacks</b>
@@ -42,7 +42,7 @@ Detects attacks and creates report.txt with findings
  <H2> - Screenshots :  </H2>
 
  <h3> The generated logs </h3>
- <<hr style="height: 0.5px; border: none; background-color: #ddd;">
+ <hr style="height: 0.5px; border: none; background-color: #ddd;">
  <img src=".\assets\Logs.png"><br>
 <h3> The output</h3><br>
  <img src=".\assets\Output.png"><br>
