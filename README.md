@@ -34,7 +34,7 @@ Detects attacks and creates report.txt with findings
 
 <br>
  <h2> <b> - How it works : </b></h2>
-<pre> <b> [Log Generator]</b> → <b> [Server_Activity.log] </b> → <b> [Log Analyzer] </b> → <b> [Generated report] </b>     </pre>     
+ <img src=".\assets\Project_Design.png"><br>   
 <br>             
 
 
