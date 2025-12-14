@@ -51,7 +51,7 @@ Detects attacks and creates report.txt with findings
 
 
 
-<h2> 💡  - What I learned: </h2>
+<h2>💡 Technical Accomplishments</h2>
     
    -  Regular expressions for parsing
   
